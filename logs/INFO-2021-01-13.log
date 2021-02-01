@@ -1,0 +1,62 @@
+2021-01-13 18:28:26.066 [main] INFO  com.example.SpringBootDemoApplication - Starting SpringBootDemoApplication using Java 1.8.0_121 on A020531-NC with PID 100664 (D:\workspace\demo\spring-boot-demo\target\classes started by qinguoqing in D:\workspace\demo\spring-boot-demo)
+2021-01-13 18:28:26.071 [main] INFO  com.example.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+2021-01-13 18:28:28.053 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-01-13 18:28:28.070 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-01-13 18:28:28.074 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-01-13 18:28:28.074 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-13 18:28:28.243 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-01-13 18:28:28.243 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2077 ms
+2021-01-13 18:28:29.128 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-01-13 18:28:29.784 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-01-13 18:28:29.844 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-01-13 18:28:29.868 [main] INFO  com.example.SpringBootDemoApplication - Started SpringBootDemoApplication in 4.726 seconds (JVM running for 6.772)
+2021-01-13 18:29:07.247 [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-13 18:29:07.247 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-01-13 18:29:07.248 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-01-13 18:29:27.053 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-01-13 18:29:40.096 [main] INFO  com.example.SpringBootDemoApplication - Starting SpringBootDemoApplication using Java 1.8.0_121 on A020531-NC with PID 54568 (D:\workspace\demo\spring-boot-demo\target\classes started by qinguoqing in D:\workspace\demo\spring-boot-demo)
+2021-01-13 18:29:40.102 [main] INFO  com.example.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+2021-01-13 18:29:41.216 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-01-13 18:30:09.041 [main] INFO  com.example.SpringBootDemoApplication - Starting SpringBootDemoApplication using Java 1.8.0_121 on A020531-NC with PID 42440 (D:\workspace\demo\spring-boot-demo\target\classes started by qinguoqing in D:\workspace\demo\spring-boot-demo)
+2021-01-13 18:30:09.047 [main] INFO  com.example.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+2021-01-13 18:30:10.509 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-01-13 18:30:10.519 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-01-13 18:30:10.519 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-01-13 18:30:10.520 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-13 18:30:10.618 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-01-13 18:30:10.618 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1491 ms
+2021-01-13 18:30:10.957 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-01-13 18:30:11.191 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-01-13 18:30:11.215 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-01-13 18:30:11.225 [main] INFO  com.example.SpringBootDemoApplication - Started SpringBootDemoApplication in 3.189 seconds (JVM running for 4.526)
+2021-01-13 18:30:18.677 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-13 18:30:18.677 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-01-13 18:30:18.678 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-01-13 18:30:18.698 [http-nio-8080-exec-1] INFO  com.example.aspect.LoggerAspect - 【前置通知】:com.example.controller.IndexController类的index方法开始
+2021-01-13 18:30:18.698 [http-nio-8080-exec-1] INFO  com.example.aspect.LoggerAspect - 【请求报文】:[org.apache.catalina.connector.RequestFacade@f2ac09e]
+2021-01-13 18:30:18.709 [http-nio-8080-exec-1] INFO  com.example.aspect.LoggerAspect - 【后置通知】: com.example.controller.IndexController类的index方法结束
+2021-01-13 18:30:50.044 [http-nio-8080-exec-2] INFO  com.example.aspect.LoggerAspect - 【前置通知】:com.example.controller.IndexController类的index方法开始
+2021-01-13 18:30:50.044 [http-nio-8080-exec-2] INFO  com.example.aspect.LoggerAspect - 【请求报文】:[org.apache.catalina.connector.RequestFacade@f2ac09e]
+2021-01-13 18:30:50.044 [http-nio-8080-exec-2] INFO  com.example.aspect.LoggerAspect - 【后置通知】: com.example.controller.IndexController类的index方法结束
+2021-01-13 18:33:08.409 [main] INFO  com.example.SpringBootDemoApplication - Starting SpringBootDemoApplication using Java 1.8.0_121 on A020531-NC with PID 58448 (D:\workspace\demo\spring-boot-demo\target\classes started by qinguoqing in D:\workspace\demo\spring-boot-demo)
+2021-01-13 18:33:08.419 [main] INFO  com.example.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+2021-01-13 18:33:10.858 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-01-13 18:33:10.886 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-01-13 18:33:10.888 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-01-13 18:33:10.889 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-13 18:33:11.134 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-01-13 18:33:11.134 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2584 ms
+2021-01-13 18:33:12.170 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-01-13 18:33:12.555 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-01-13 18:33:12.600 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-01-13 18:33:12.619 [main] INFO  com.example.SpringBootDemoApplication - Started SpringBootDemoApplication in 5.402 seconds (JVM running for 7.57)
+2021-01-13 18:34:13.376 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-13 18:34:13.376 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-01-13 18:34:13.377 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-01-13 18:34:13.408 [http-nio-8080-exec-1] INFO  com.example.aspect.LoggerAspect - 【前置通知】:com.example.controller.LogController类的log方法开始
+2021-01-13 18:34:13.408 [http-nio-8080-exec-1] INFO  com.example.aspect.LoggerAspect - 【请求报文】:[aaa]
+2021-01-13 18:34:13.416 [http-nio-8080-exec-1] INFO  com.example.controller.LogController -  ---------------------- log 方法打印日志 ---------------------
+2021-01-13 18:34:13.416 [http-nio-8080-exec-1] INFO  com.example.aspect.LoggerAspect - 【后置通知】: com.example.controller.LogController类的log方法结束
+2021-01-13 18:35:44.428 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
